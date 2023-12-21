@@ -31,7 +31,6 @@ Launch your favorite installer (pip, conda...) on [setup.py](https://bitbucket.o
 See the following notebooks:
 
 -   [Create a decision process](https://bitbucket.org/smartgrids_core/generic_decision_making_process/src/master/decision_making_process_quickie.ipynb)
--   [Solving a decision process](https://coming_soon.com)
 
 ## Tests
 
