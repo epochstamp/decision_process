@@ -24,13 +24,13 @@ GenericDecisionProcess is a end-to-end library that aims to provide:
 
 ## Install
 
-Launch your favorite installer (pip, conda...) on [setup.py](https://bitbucket.org/smartgrids_core/generic_decision_making_process/src/master/setup.py).
+Launch your favorite installer (pip, conda...) on [setup.py](https://github.com/epochstamp/decision_process/tree/main/setup.py).
 
 ## Quick Start Guide
 
 See the following notebooks:
 
--   [Create a decision process](https://bitbucket.org/smartgrids_core/generic_decision_making_process/src/master/decision_making_process_quickie.ipynb)
+-   [Create a decision process](https://github.com/epochstamp/decision_process/tree/main/decision_making_process_quickie.ipynb)
 
 ## Tests
 
@@ -49,7 +49,7 @@ Examples may be executed as simple as follows:
 python examples/an_example.py
 ```
 
-See the [examples](https://bitbucket.org/smartgrids_core/generic_decision_making_process/src/master/examples) for more details.
+See the [examples](https://github.com/epochstamp/decision_process/tree/main/decision_process_examples) for more details.
 
 ## Contributing
 
